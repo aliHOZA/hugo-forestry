@@ -1,9 +1,9 @@
 ---
 title: 'سلام. '
 date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+description: میز تلویزیون
 type: featured
-image: images/featured-post/post-1.jpg
+image: "/images/tv2020.jpg"
 categories:
 - Valuable Idea
 tags:
